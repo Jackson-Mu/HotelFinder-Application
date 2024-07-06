@@ -1,7 +1,7 @@
 
 # Hotel Finder Application
 
-Welcome to the Hotel Finder Application repository! This project, `hotelFinder`, helps you search for hotels in specific cities using a combination of efficient data structures. It is developed in C++ and is designed to be highly efficient and scalable.
+Welcome to the Hotel Finder Application repository! This project, `hotelFinder`, helps you search for hotels in specific cities from datasets containing cities using a combination of efficient data structures. It is developed in C++ and is designed to be highly efficient and scalable.
 
 ## Table of Contents
 - [Overview](#overview)
